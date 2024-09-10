@@ -10,6 +10,6 @@ Striver's A2Z DSA Sheet is a well-known and highly regarded resource in the worl
 ## Resources
 [Link to the Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) <br>
 [Take U Forward - Youtube Channel](https://www.youtube.com/@takeUforward)
-## Other Resources
+## Other Useful Resources
 [Neetcode](https://neetcode.io/practice) <br>
 [Luv Babbar Trie Playlist](https://www.youtube.com/playlist?list=PLHSc_caTPEnLQbTFFihH96GLykN6MbuJE)
