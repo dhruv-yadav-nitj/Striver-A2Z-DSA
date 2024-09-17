@@ -13,3 +13,5 @@ Striver's A2Z DSA Sheet is a well-known and highly regarded resource in the worl
 ## Other Useful Resources
 [Neetcode](https://neetcode.io/practice) <br>
 [Luv Babbar Trie Playlist](https://www.youtube.com/playlist?list=PLHSc_caTPEnLQbTFFihH96GLykN6MbuJE)
+## Note
+This repo contains some other files/folders which are not related to the original Striver's A2Z DSA Sheet. Ignore them or you can refer them as well for other topics.
