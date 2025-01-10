@@ -8,5 +8,3 @@ Welcome to the Striver's A2Z DSA Sheet Solutions repository! This repository con
 ## Resources
 [Link to the Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) <br>
 [Take U Forward - Youtube Channel](https://www.youtube.com/@takeUforward)
-## Note
-This repo contains some other files/folders which are not related to the original Striver's A2Z DSA Sheet. Ignore them or you can refer them as well for other topics.
